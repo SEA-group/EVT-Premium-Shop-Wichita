@@ -16,4 +16,4 @@ Presented by SEA group
 ![EVT-Premium-Shop-Wichita](https://raw.githubusercontent.com/SEA-group/EVT-Premium-Shop-Wichita/master/Capture_2019-02-15_182833.jpg)
 
 ## Preview
-![EVT-Premium-Shop-Wichita](https://raw.githubusercontent.com/SEA-group/EVT-Premium-Shop-Wichita/master/Affiche.jpg)
+![EVT-Premium-Shop-Wichita](https://raw.githubusercontent.com/SEA-group/EVT-Premium-Shop-Wichita/master/Affiche.png)
