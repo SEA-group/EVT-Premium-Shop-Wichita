@@ -448,6 +448,24 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MP_AM061_Sky_Lookout_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.1574 0.6924 -2.3554 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM061_Sky_Lookout_1_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.1574 0.6924 -2.3554 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MP_AM062_IFF_Antenna	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
@@ -832,6 +850,24 @@
 					<row1>	-0.0003 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.7071 0.0003 0.7071 0.0000	</row2>
 					<row3>	-0.2411 0.8004 -1.9169 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM489_Franklin_Life_Buoy	</identifier>
+				<transform>
+					<row0>	-0.0319 0.0000 0.9995 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9995 0.0000 -0.0319 0.0000	</row2>
+					<row3>	-0.5645 0.3578 -3.0864 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM489_Franklin_Life_Buoy_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.0319 0.0000 -0.9995 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9995 0.0000 -0.0319 0.0000	</row2>
+					<row3>	0.5645 0.3578 -3.0864 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
